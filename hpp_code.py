@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-file = r"C:\Users\kanna\Downloads\HousePricePrediction.xlsx"
+file = "HousePricePrediction.xlsx" #Replace with correct path if needed
 dataset = pd.read_excel(file)
 
 # Printing first 5 records of the dataset
