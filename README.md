@@ -13,7 +13,7 @@ This project aims to predict house prices based on various features using machin
 - Features include:
   - Categorical: MSZoning, LotConfig, BldgType, Exterior1st, etc.
   - Numerical: LotArea, YearBuilt, TotalBsmtSF, OverallCond, etc.
-
+-upload your own dataset if you have one.
 ---
 
 ## 🔍 Exploratory Data Analysis
